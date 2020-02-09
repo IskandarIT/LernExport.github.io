@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+.science-page{
+
+    text-align: center;
+    color: #1a56d6;
+}
+
+.money-page{
+    margin-left: 70px;
+    color: #1a56d6;
+}
+
+.profession-page{
+    text-align: center;
+    color: #1a56d6;
+}
+.zvezda-page{
+    margin-left: 60px;
+    color: gold;
+}
+.courses-page-img{
+    width: 40%;
+    margin-top: 50px;
+}
+.courses-page-img:hover {
+    border:  5px #1a56d6 solid;
+
+}
+.ramka{
+    border-top: #1a56d6 5px solid;
+}
+.courses-text{
+
+    font-size: 16px;
+    text-align: justify;
+}
+.fon{
+    background: #dededf;
+}
+.fon1{
+    background: #FAFAFA;
+}
+.fon3{
+    background: seashell;
+    margin-bottom: -30px;
+
+}

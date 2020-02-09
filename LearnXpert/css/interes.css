@@ -1,0 +1,34 @@
+.interested{
+    padding-top: 75px;
+    background: #f7f7f7;
+}
+. interes{
+    width: 377px;
+    height: 277px;
+    background: white;
+}
+.interes-title{
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+.card-interes-img{
+    height: 300px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 10px;
+}
+.card-interes-img img{
+height: 300px;
+}
+
+
+.card-interes-title{
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+.card{
+   width: 100%;
+    height: 486px;
+}

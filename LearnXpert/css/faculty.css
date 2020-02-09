@@ -1,0 +1,50 @@
+.new-portal-image1{
+    width: 103%;
+    height: 85%;
+}
+.new-portal{
+    margin-top: 58px;
+}
+.menu{
+    background: #ed8000;
+}
+.new-portal-image2{
+    width: 99%;
+    height: 100%;
+    border-bottom: #ed8000 5px solid;
+}
+.new-2{
+    padding-top: 5px;
+}
+.new-3{
+
+}
+.new-1{
+    border-bottom: 20px;
+
+}
+.new-portal-image1{
+    border-bottom: #ed8000 5px solid;
+}
+.date-new-portal{
+    color: #1a56d6;
+    font-size: 20px;
+}
+.text:hover{
+    border: #1a56d6 5px dashed;
+}
+.sten1{
+    background: seashell;
+}
+.sten2{
+    background: cornsilk  ;
+}
+.sten3{
+    background: #dededf;
+}
+.new-portal{
+    background: honeydew;
+}
+.new-portal-text{
+    text-align: justify;
+}

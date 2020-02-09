@@ -1,0 +1,20 @@
+.about-text:hover {
+    border-left: #1a56d6 10px dashed;
+    border-right: #ed8000 10px dashed;
+    padding-left: 15px;
+    color: #1a56d6;
+}
+.about-title{
+    text-align: center;
+    margin-bottom: 30px;
+    color: #1a56d6;
+
+}
+.about-title:hover{
+
+    border-bottom: #ed8000 5px solid;
+}
+.about-img{
+    margin-bottom: 20px;
+    border: #ed8000 5px solid;
+}

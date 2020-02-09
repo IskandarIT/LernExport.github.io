@@ -1,0 +1,436 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+.contact{
+    background:#1a56d6 ;
+}
+.contact-number{
+    color: white;
+
+}
+
+.navbar{
+    background: white;
+}
+li{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5{
+    color: black;
+}
+.contact-link{
+    color: white;
+}
+.menu{
+    height: 59px;
+    background: #ffff;
+    margin-bottom: -25px;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(152, 32, 32, 0.9);
+}
+.navbar{
+    background-image: linear-gradient(rgba(26, 86, 214, 0), #f8fff4, rgba(27, 60, 252, 0.29));
+}
+.silka{
+    display: block;
+    color: #3c6afc;
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.logo{
+    font-size: 36px;
+    color: #1a56d6;
+    padding-bottom: 15px;
+    font-weight: 700;
+    margin-left: 150px;
+}
+.learn{
+    background: url("../img/girl.png") no-repeat ;
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #cfcfcf;
+    height: 100vh;
+    padding-top: 55px;
+
+
+
+
+
+}
+.learn-title{
+    margin-top: 100px;
+    font-size: 40px;
+    padding-bottom: 50px;
+    border-bottom: 1px #707070 solid;
+    width: 460px;
+    margin-left: 80px;
+
+}
+.car{
+    margin-left: 80px;
+}
+.learn-text{
+    font-size: 20px;
+    margin-top: 30px;
+    color: #666666;
+    margin-bottom: 58px;
+    margin-left: 90px;
+    width: 50%;
+
+
+}
+.card{
+    background: #ffffff;
+    padding-left: 32px;
+    padding-right: 10px;
+    border: 1px #dededf dashed;
+    margin: 15px;
+}
+.events{
+    font-size: 14px;
+    color: #707070;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.date{
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    }
+.camp{
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #707070;
+    padding-bottom: 10px;
+    border-bottom: 1px #3c6afc solid;
+}
+.start{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #707070;
+}
+.read{
+    background: #1a56d6;
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 400;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    width: 150px;
+    height: 62px;
+    text-align: center;
+}
+.bec{
+    font-size: 20px;
+    color: #666666;
+    margin-top: 65px;
+    margin-bottom:48px ;
+
+
+}
+.read-bec{
+    font-size: 16px;
+    width: 211px;
+    height: 52px;
+    text-align: center;
+    border: #1a56d6 2px solid;
+    text-transform: uppercase;
+    color: #1a56d6;
+    background: transparent;
+    font-weight: 400;
+}
+.about{
+    padding-top: 130px;
+    padding-bottom: 120px;
+    background-image: linear-gradient(rgba(60, 106, 252, 0.29),#dededf , rgba(26, 86, 214, 0.58));
+
+}
+.about-title{
+    font-size: 42px;
+    color: #192041;
+}
+.about-text{
+    color: #666666;
+    font-size: 16px;
+}
+.about-img{
+   width: 100%;
+}
+.interested{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background: #f7f7f7;
+    background-image: linear-gradient(rgba(26, 86, 214, 0.31),white , #3c6afc );
+}
+.card {
+    width: 283px;
+    height: 200px;
+
+}
+.interes-title{
+    font-size: 42px;
+    margin-bottom: 75px;
+}
+.card-interes-img{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 10px;
+
+}
+.design_style{
+    width: 289px;
+    height: 300px;
+}
+.card-interes-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #666666;
+}
+.courses{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.courses-title{
+    font-size: 42px;
+    color: #192041;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.courses-card{
+    padding: 0;
+    width:379px ;
+    height:510px ;
+    margin: 10px;
+}
+.card-2chast{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+.courses-img{
+    height: 200px;
+    width: 332px;
+
+
+}
+
+.sciences{
+    margin-top: 30px;
+}
+.science{
+    font-size: 13px;
+    color: #666666;
+}
+.money{
+    font-size: 23px;
+    color: #1a56d6;
+    margin-left: auto;
+}
+.profession{
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+}
+.zvezda{
+    margin-left: auto;
+    color: #ed8000;
+
+}
+.courses-text{
+    font-size: 16px;
+    margin-top: 8px;
+    color: #666666;
+    text-align: left;
+
+}
+
+.our{
+    background: #f7f7f7;
+
+}
+.our-title{
+    padding-top: 100px;
+    font-size: 42px;
+    font-weight: 400;
+    margin-bottom: 60px;
+
+}
+.our-img{
+    width: 44px;
+    height:53px ;
+    margin-top: 9px;
+}
+.left-storona{
+    margin-left: 10px;
+
+}
+.chislo{
+    font-size: 30px;
+    color: #1a56d6;
+}
+.our-text{
+    font-size: 16px;
+}
+.our-achievements1{
+margin-left: 120px;
+}
+.obshiy-achiviment{
+    padding-bottom: 50px;
+    border-bottom: 1px #666666 solid ;
+}
+.our-posled{
+    width: 100%;
+    font-size: 16px;
+    color: #666666;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.gallery{
+    margin-top: 50px;
+}
+.img-posled{
+    width: 100%;
+
+}
+.welcome-img{
+    width: 100%;
+}
+.welcome{
+    padding-bottom: 100px;
+}
+.kartinka1{
+    width: 100%;
+    height: 300px;
+    margin: 10px;
+    border: 5px solid #a2c3df
+}
+
+.new-portal{
+
+}
+.new-portal-title{
+    margin-bottom: 5px;
+}
+
+.new-portal-card{
+ text-align: center;
+    width:350px ;
+    height:430px ;
+    padding-left: 0;
+}
+.new-portal-image{
+    width:350px ;
+    height:244px ;
+
+}
+.chast2-new-portal{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.date-new-portal{
+    margin-top: 25px;
+    font-size: 13px;
+    color: #707070;
+    margin-bottom: 18px;
+}
+.new-portal-text{
+    color: #666666;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.silka-new-portal{
+    font-size: 12px;
+    color: #1a56d6;
+}
+.obshiy-card-new-portal{
+    margin-bottom: 30px;
+}
+.button-new-portal{
+    margin-bottom: 100px;
+}
+.footer{
+    background: #212121;
+}
+.obrat-svyaz{
+    margin-top: 85px;
+    margin-bottom: 45px;
+}
+.obrat-svtayz-text{
+    color: white;
+}
+.obrat-svtayz-vhod-danniy{
+    width: 380px;
+    height: 43px;
+    color: white;
+    background: transparent;
+
+}
+.btn-otpravka{
+    width: 247px;
+    height: 43px;
+    background: white;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+.footer{
+    border-bottom: 1px white solid;
+    border-bottom: 40px;
+}
+.addess-text{
+    color: white;
+}
+.address-link{
+    color: white;
+}
+.about-img{
+    width: 100%;
+    height: 284px;
+}
+.posled-text{
+    border-top: 1px white solid;
+    padding-top: 30px;
+    color: white;
+    /*padding-bottom: 20px;*/
+}
+.our-posled1{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #1a56d6;
+}
+.obshiy-achiviment{
+    width: 100%;
+}
+.our-achievements{
+    margin: 5px;
+    width: 370px;
+    display: block;
+   padding-left: 50px;
+    border-radius: 10%;
+    border: 5px solid #a2c3df;
+}
+
+@media screen and (min-width:700px) and (max-width:600px) {
+    .learn{
+        background-size: 330vh ;
+    }
+    .learn-title{
+        margin-top: 0;
+        font-size: 5px;
+        width: 200px;
+    }
+    .car{
+        margin-left: 200px;
+    }
+}
+
+
